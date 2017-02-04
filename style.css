@@ -1,0 +1,73 @@
+.header_area{
+	border: 2px solid #2b2b2b;
+	overflow: hidden;
+}
+.part1{
+	border: 2px solid #2b2b2b;
+	width: 10%;
+	height: 50px;
+	background-color:green;
+	display: inline-block;
+}
+.part2{
+	border: 2px solid #2b2b2b;
+	width: 40%;
+	height: 50px;
+	background-color:orange;
+	display: inline-block;
+
+}
+.part3{
+	border: 2px solid #2b2b2b;
+	width: 10%;
+	height: 50px;
+	background-color:red;
+	display: inline-block;
+
+}
+.about_area{
+	border: 1px solid red;
+	overflow: hidden;
+}
+.image{
+	width: 30%;
+	float: left;
+	height: 100px;
+	border: 1px solid #2b2b2b;
+}
+.about{
+	width: 50%;
+	float: right;
+	height: 100px;
+	border: 1px solid #2b2b2b;
+}
+.content_area{
+	border: 1px solid red;
+}
+.con{
+	border: 2px solid #2b2b2b;
+	width: 20%;
+	display: inline-block;
+	margin-left: 20px;
+	height: 150px;
+}
+.service_area{
+	border: 1px solid red;
+}
+.ser{
+	border: 2px solid #2b2b2b;
+	width: 30%;
+	display: inline-block;
+	margin-left: 20px;
+	height: 150px;
+}
+.footer_area{
+	border: 1px solid red;
+}
+.footer{
+	border: 2px solid #2b2b2b;
+	width: 45%;
+	display: inline-block;
+	margin-left: 20px;
+	height: 150px;
+}
